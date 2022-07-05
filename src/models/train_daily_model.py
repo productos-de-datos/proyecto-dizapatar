@@ -1,5 +1,5 @@
 def load_data():
-    
+
     import pandas as pd
 
     in_path = 'data_lake/business/features/precios_diarios.csv'
